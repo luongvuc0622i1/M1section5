@@ -1,0 +1,21 @@
+body {
+    padding: 50px;
+}
+
+table {
+    width: 100%;
+}
+
+th{
+    font-size:16px;
+    font-weight:400;
+    color:#fff;
+    text-align:center;
+    padding:20px;
+    background-color: #d61b06;
+    border-color: white;
+}
+
+.hover {
+    background: red;
+}
